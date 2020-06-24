@@ -1,0 +1,24 @@
+::Q1
+::What year is this year? {
+=2020
+~2019
+~2021
+~2018
+}
+
+::Q2
+::Which language is better for ML? {
+=Python
+~Pascal
+~COBOL
+~BASIC
+}
+
+::Q3
+::Actress of Titanic? {
+=Kate Winslet
+~Scarlett Johonson
+~Nicole Kidman
+~Angelina Jolie
+}
+
